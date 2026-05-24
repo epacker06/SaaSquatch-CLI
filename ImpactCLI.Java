@@ -6,8 +6,8 @@ public class ImpactCLI implements Runnable {
 
     @Override
     public void run() {
-        // This prints out their company name when the program runs
-        System.out.println("impact.com");
+       // This prints out company name when the program runs
+       System.out.println("SaaSquatch by impact.com");
     }
 
     public static void main(String[] args) {
